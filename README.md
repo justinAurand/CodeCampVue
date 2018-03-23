@@ -1,1 +1,4 @@
-"# CodeCampVue" 
+# CodeCampView
+
+To run:
+    `npm start`
